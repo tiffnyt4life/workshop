@@ -14,7 +14,14 @@ Our project will be done using a sequence of save and commits and branch actions
 you, if you change any of this the git program will notice it and compromise your git merging strategy !-->
 
 ## First Verse 
-<!--Put the first five lines of a poem by Lewis Carrol in this section!-->
+
+Five little girls, of Five, Four, Three, Two, One:  
+Rolling on the hearthrug, full of tricks and fun.   
+
+Five rosy girls, in years from Ten to Six:  
+Sitting down to lessons - no more time for tricks.   
+
+Five growing girls, from Fifteen to Eleven:  
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
